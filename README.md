@@ -10,5 +10,5 @@ The application aims to simplify financial management and foster better saving h
 | Learning Path                        | Repository Link                                                                           |
 | ------------------------------------ | ----------------------------------------------------------------------------------------- |
 | Mobile Development                   | [TMS-Android](https://github.com/AlninoDP/Targeted_Money_Saver_TMS)                       |
-| Cloud Computing (API)                | [TMS-API]( )                                                                              |
-| Cloud Computing (API Model)          | [TMS_API_Model]( )                                                                        | 
+| Cloud Computing (API)                | [To Be Updated]( )                                                                        |
+| Cloud Computing (API Model)          | [To Be Updated]( )                                                                        | 
