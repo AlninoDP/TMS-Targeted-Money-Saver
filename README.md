@@ -5,6 +5,14 @@ Using TMS: Targeted Money Saver, users can effortlessly manage their savings by 
 
 The application aims to simplify financial management and foster better saving habits, especially among students and young professionals. By offering a straightforward and engaging way to monitor savings, the app encourages consistent contributions while helping users make informed decisions about their spending. With its user-friendly interface and motivational design, TMS: Targeted Money Saver transforms the process of achieving financial goals into an accessible and rewarding experience.
 
+## Team : Bangkit Capstone Team C242-PS532 
+
+| Name                    | Bangkit ID  | Learning Path      | Contacts                                                                                                                                                                                |
+| ----------------------- | ------------ | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Alnino Dio Putera       | A204B4KY0411 | Mobile Development | [![Alnino Dio Putera](/contacts/LinkedIn.png)](https://www.linkedin.com/in/alninodp/) [![AlninoDP](/contacts/Github.png)](https://github.com/AlninoDP)            |
+        
+
+
 ## Learning Path Repository
 
 | Learning Path                        | Repository Link                                                                           |
