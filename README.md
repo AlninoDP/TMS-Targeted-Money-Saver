@@ -8,6 +8,7 @@ The application aims to simplify financial management and foster better saving h
 ## Team : Bangkit Capstone Team C242-PS532 
 
 | Name                              | Bangkit ID   | Learning Path      | Contacts |
+|                                   |              |                    |          |
 | Alnino Dio Putera       	    | A204B4KY0411 | Mobile Development | [![Alnino Dio Putera](/contact/LinkedIn.png)](https://www.linkedin.com/in/alninodp/)  [![AlninoDP](/contact/Github.png)](https://github.com/AlninoDP)                                                      |
 | Bagus Adhi Nugroho      	    | C128B4KY0792 | Cloud Computing    | [![Bagus Adhi Nugroho](/contact/LinkedIn.png)](https://www.linkedin.com/in/bagus-adhi-nugroho-1b197524b/)  [![Velkh](/contact/Github.png)](https://github.com/Velkh)                                  |
 | Ishom Nabil Umran Alihaq 	    | C128B4KY2016 | Cloud Computing    | [![Ishom Nabil Umran Alihaq](/contact/LinkedIn.png)](https://www.linkedin.com/in/ishom-nabil-22282b315/) |
